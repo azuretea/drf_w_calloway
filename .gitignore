@@ -1,0 +1,4 @@
+# Ignore those virtualenv files
+bin/
+lib/
+local/
