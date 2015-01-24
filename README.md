@@ -4,7 +4,7 @@ An effort to learn Django Rest Framework
 Christian and I need to understand the relative endpoints
 between Django Rest Framework and Ember.js.
 
-By documenting the sets taken, and producting working code
+By documenting the steps taken, and producting working code
 with both of these frameworks, we hope to take our learnings
 and apply them to the prophet framework.
 
